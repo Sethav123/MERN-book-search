@@ -1,7 +1,7 @@
 # MERN: Book Search Engine
 
 ## Description
-J.A.T.E (Just Another Text Editor) is a progressive web application (PWA) designed to provide users with a simple text editor. It works offline and can be installed as a desktop application. Uses IndexDB to save and retrieve content
+Users can create accounts to save their favorite books, providing a personalized experience as they explore new titles. The application features authentication via JWT, allowing secure access to saved books and a seamless user experience.
 ## Screenshot
 ![screenshot](Screenshot-9.png)
 ## Deployed
