@@ -3,6 +3,6 @@
 ## Description
 Users can create accounts to save their favorite books, providing a personalized experience as they explore new titles. The application features authentication via JWT, allowing secure access to saved books and a seamless user experience.
 ## Screenshot
-![screenshot](Screenshot-9.png)
+![screenshot](Screenshot-12.png)
 ## Deployed
 https://pwa-text-editor-2-h3ky.onrender.com/
